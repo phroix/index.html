@@ -154,11 +154,16 @@ div.menuContainer ul {
   float: left;
   width: 60px; /* adjust the value as needed */
   height: auto; /* this will preserve the aspect ratio */
-  margin-left: 100px; /* add some spacing between the image and the menu items */
-  margin-top: -10px; /* add some spacing between the image and the menu items */
+  margin-left: 150px; /* add some spacing between the image and the menu items */
+  margin-top: -20px; /* add some spacing between the image and the menu items */
   color: #66518e;
   font-family: "Sacramento", cursive;
-  font-size: 40px;
+  font-size: 45px;
+}
+
+.bottomMountains{
+  width: 1200px; /* adjust the value as needed */
+
 }
 
 /* CV */
