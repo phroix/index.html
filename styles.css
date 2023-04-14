@@ -156,6 +156,7 @@ div.menuContainer ul {
   height: auto; /* this will preserve the aspect ratio */
   margin-left: 100px; /* add some spacing between the image and the menu items */
   margin-top: -10px; /* add some spacing between the image and the menu items */
+  color: #000000;
 }
 
 /* CV */
